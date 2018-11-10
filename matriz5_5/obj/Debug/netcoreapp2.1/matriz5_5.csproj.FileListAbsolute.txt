@@ -1,0 +1,11 @@
+/Users/aluno/Projects/matriz5_5/matriz5_5/bin/Debug/netcoreapp2.1/matriz5_5.deps.json
+/Users/aluno/Projects/matriz5_5/matriz5_5/bin/Debug/netcoreapp2.1/matriz5_5.runtimeconfig.json
+/Users/aluno/Projects/matriz5_5/matriz5_5/bin/Debug/netcoreapp2.1/matriz5_5.runtimeconfig.dev.json
+/Users/aluno/Projects/matriz5_5/matriz5_5/bin/Debug/netcoreapp2.1/matriz5_5.dll
+/Users/aluno/Projects/matriz5_5/matriz5_5/bin/Debug/netcoreapp2.1/matriz5_5.pdb
+/Users/aluno/Projects/matriz5_5/matriz5_5/obj/Debug/netcoreapp2.1/matriz5_5.csprojAssemblyReference.cache
+/Users/aluno/Projects/matriz5_5/matriz5_5/obj/Debug/netcoreapp2.1/matriz5_5.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/matriz5_5/matriz5_5/obj/Debug/netcoreapp2.1/matriz5_5.AssemblyInfoInputs.cache
+/Users/aluno/Projects/matriz5_5/matriz5_5/obj/Debug/netcoreapp2.1/matriz5_5.AssemblyInfo.cs
+/Users/aluno/Projects/matriz5_5/matriz5_5/obj/Debug/netcoreapp2.1/matriz5_5.dll
+/Users/aluno/Projects/matriz5_5/matriz5_5/obj/Debug/netcoreapp2.1/matriz5_5.pdb
